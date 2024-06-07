@@ -32,15 +32,15 @@ Cada exercício está em um arquivo .js separado. Para executar um exercício, u
 
 ### Lista de Exercícios
 
-1. [Exercício 01](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio1.js): Calcula a redução do tempo de vida de um fumante.
-2. [Exercício 02](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio2.js): Verifica se a velocidade do carro ultrapassa o limite permitido.
-3. [Exercício 03](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio3.js): Calcula o preço da passagem com base na distância percorrida.
-4. [Exercício 04](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio4.js): Verifica se três segmentos de reta podem formar um triângulo.
-5. [Exercício 05](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio5.js): Jogo de JoKenPo (Pedra-Papel-Tesoura).
-6. [Exercício 06](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio6.js): Jogo para adivinhar um número sorteado pelo computador.
-7. [Exercício 07](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio7.js): Calcula o preço de aluguel de carros.
-8. [Exercício 08](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio8.js): Calcula pontos por atividades físicas realizadas.
-9. [Exercício 09](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio9.js): Calcula o total de salários pagos aos homens e às mulheres.
+1. [Exercício 01](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio01.js): Calcula a redução do tempo de vida de um fumante.
+2. [Exercício 02](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio02.js): Verifica se a velocidade do carro ultrapassa o limite permitido.
+3. [Exercício 03](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio03.js): Calcula o preço da passagem com base na distância percorrida.
+4. [Exercício 04](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio04.js): Verifica se três segmentos de reta podem formar um triângulo.
+5. [Exercício 05](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio05.js): Jogo de JoKenPo (Pedra-Papel-Tesoura).
+6. [Exercício 06](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio06.js): Jogo para adivinhar um número sorteado pelo computador.
+7. [Exercício 07](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio07.js): Calcula o preço de aluguel de carros.
+8. [Exercício 08](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio08.js): Calcula pontos por atividades físicas realizadas.
+9. [Exercício 09](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio09.js): Calcula o total de salários pagos aos homens e às mulheres.
 10. [Exercício 10](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio10.js): Lê vários números e mostra estatísticas sobre eles.
 11. [Exercício 11](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio11.js): Mostra os 10 primeiros elementos de uma PA (Progressão Aritmética).
 12. [Exercício 12](https://github.com/rodrigosv91/lista_ex2/blob/main/exercicio12.js): Mostra os 10 primeiros elementos da Sequência de Fibonacci.
